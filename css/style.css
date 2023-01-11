@@ -52,6 +52,10 @@ input {
   border-style: solid;
 }
 
+input:focus {
+  background-color: #FAFAFA;
+}
+
 input[type=date] {
   color: #D3D3D3;
   font-weight: 400;
@@ -60,10 +64,6 @@ input[type=date] {
 ::placeholder {
   color: #D3D3D3;
   font-weight: 400;
-}
-
-input:focus {
-  background-color: #FAFAFA;
 }
 
 .half-input {
