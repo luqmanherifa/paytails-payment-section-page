@@ -13,6 +13,10 @@ body {
   background-color: white;
 }
 
+a {
+  text-decoration: none;
+}
+
 .container {
   display: flex;
   justify-content: center;
@@ -175,4 +179,22 @@ hr {
 
 .product-container img:hover {
   outline: 3px solid #FFC800;
+}
+
+
+/* --- Footer --- */
+.footer {
+  padding: 100px 0 40px;
+}
+
+.footer-txt p {
+  display: flex;
+  justify-content: center;
+  color: #121212;
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.footer-txt:hover p {
+  color: #FFC800;
 }
