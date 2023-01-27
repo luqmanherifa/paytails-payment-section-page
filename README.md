@@ -1,4 +1,4 @@
-# Payment Details: Form Validation
+# Paytails - Form Validation
 
 Payment Details is a web payment details section contains name, email, phone, date postal code input form. The project was developed for practicing form validation using HTML/CSS.
 
